@@ -1,6 +1,6 @@
 {
   "title": "Material demo",
-  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/lab/slider/SimpleSlider.js",
+  "description": "https://github.com/alaeddinejebali/React-material-ui-range-values-input/",
   "dependencies": {
     "react-dom": "latest",
     "react": "latest",
